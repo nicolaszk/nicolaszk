@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! 👋✨
+- 🎓 I’m currently studying computer science @ PUCRS.
+- 🎵 I enjoy playing piano and coding.
+<!-- 🌱 I’m currently learning C++ for advanced algorithms and exploring deep learning.-->
 
-<!--
-**nicolaszk/nicolaszk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Languages & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaszk&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
