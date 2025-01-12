@@ -9,6 +9,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaszk&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaszk&layout=donut-vertical&theme=dracula)](https://github.com/nicolaszk/github-readme-stats)
 
 
