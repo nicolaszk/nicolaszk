@@ -1,7 +1,7 @@
 ## Hi there! 👋✨
 - 🎓 I’m currently studying computer science @ PUCRS.
 - 🎵 I enjoy playing piano and coding.
- 🌱 I’m currently learning C++ for advanced algorithms, JavaScript for web development, and doing academic research on deep learning.
+- 🌱 I’m currently learning C++ for advanced algorithms, JavaScript for web development, and doing academic research on deep learning.
 
 ### 🚀 Languages & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
