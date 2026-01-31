@@ -19,9 +19,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaszk&layout=donut-vertical&theme=dracula)](https://github.com/nicolaszk/github-readme-stats)
-
----
 
 📌 Feel free to explore my repos or connect with me on [LinkedIn](https://www.linkedin.com/in/nicolaswarmeling/)  
 📌 Sinta-se à vontade para explorar meus repositórios ou me chamar no [LinkedIn](https://www.linkedin.com/in/nicolaswarmeling/)
