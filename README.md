@@ -1,14 +1,12 @@
-## Hi there! 👋✨ / Olá! 👋✨
+## Hi there! 👋 / Olá! 👋
 
 ### 🇺🇸 English
 
 🎓 I'm currently studying **Computer Science @ PUCRS**.  
 
-💻 I'm a Software Development Intern at **LIS PUCRS-HP**, building applications with **Spring Boot** and **TypeScript**.
+💻 I'm a Software Development Intern at **LIS PUCRS-HP**, currently doing machine learning research paired with traditional software development.
 
-🎵 I enjoy playing piano and coding.  
-
-🌱 I'm deeply interested in **Machine Learning**, having recently published a research paper on the topic, and I'm continuing to learn **Java** for software development.  
+🎵 I also like to play the piano.  
 
 ---
 
@@ -16,11 +14,9 @@
 
 🎓 Atualmente curso **Ciência da Computação na PUCRS**.  
 
-💻 Sou Estagiário de Desenvolvimento de Software no **LIS PUCRS-HP**, construindo aplicações com **Spring Boot** e **TypeScript**.
+💻 Sou Estagiário de Desenvolvimento de Software no **LIS PUCRS-HP**, atualmente atuando em pesquisas em machine learning, em conjunto com desenvolvimento de software tradicional.
 
-🎵 Gosto de tocar piano e programar.  
-
-🌱 Tenho muito interesse em **Machine Learning**, tendo publicado recentemente um artigo científico na área, e sigo aprendendo **Java** para desenvolvimento de software.
+🎵 Também gosto de tocar piano.  
 
 ---
 
